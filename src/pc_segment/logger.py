@@ -1,7 +1,4 @@
-"""Logger module of the pc_segment component."""
-# Copyright Gemeente Rotterdam - All Rights Reserved
-# Unauthorized copying of this file, via any medium is strictly prohibited
-# Proprietary and confidential
+"""Logger module of the pc_segment package."""
 
 import logging
 import os
